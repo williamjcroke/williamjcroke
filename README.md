@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @williamjcroke
+- 👀 I’m interested in keeping my existing skills together while advancing myself further.
+- 🌱 I’m currently refreshing myself on Node and Reasct / Next JS, as well as Java.
+- 📫 How to reach me - info@3s.ie
